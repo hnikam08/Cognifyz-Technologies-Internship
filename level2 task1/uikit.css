@@ -1,0 +1,19 @@
+body {
+  background-color: white;
+}
+.uk-grid {
+  background-color: white;
+}
+h1{
+  font-size: 3rem;
+  margin:6vh;
+  border: 7px dashed rgb(1,17,160);
+  border-radius: 20px;
+  padding:1vh 5vw;
+}
+
+p{
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
